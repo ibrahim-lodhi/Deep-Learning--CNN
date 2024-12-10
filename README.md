@@ -19,10 +19,11 @@ The CNN was trained using the Adam optimizer, which adapts learning rates dynami
 A categorical cross-entropy loss function quantified classification performance.
 Data augmentation techniques (e.g., flips, crops) were employed to improve model generalization.
 Training ran for multiple epochs with real-time accuracy and loss tracking.
-Results:
+
+**Results:**
 
 Achieved a **78% accuracy** on the CIFAR-10 dataset.
 The model effectively distinguished between classes, showcasing the power of CNNs for image classification.
-Key Takeaways
+
 
 The CNN successfully leveraged spatial feature extraction to classify images in CIFAR-10 with high accuracy, demonstrating its capability to solve complex image recognition tasks efficiently.
